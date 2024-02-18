@@ -1,7 +1,5 @@
 {
-  "name": "poc-mfe-capacitor-host",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
+  "name": "ionic-app-base",
+  "integrations": {},
+  "type": "react"
 }

@@ -1,7 +1,5 @@
 {
-  "name": "poc-mfe-capacitor",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
+  "name": "ionic-app-base",
+  "integrations": {},
+  "type": "react"
 }
