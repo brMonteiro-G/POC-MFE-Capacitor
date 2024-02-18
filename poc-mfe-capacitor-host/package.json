@@ -50,7 +50,7 @@
     "eslint-plugin-react": "^7.32.2"
   },
   "scripts": {
-    "start": "PORT=3002 craco start",
+    "start": "set PORT=3002&& craco start",
     "build": "craco build",
     "test": "craco test --transformIgnorePatterns 'node_modules/(?!(@ionic/react|@ionic/react-router|@ionic/core|@stencil/core|ionicons)/)'",
     "eject": "react-scripts eject",
